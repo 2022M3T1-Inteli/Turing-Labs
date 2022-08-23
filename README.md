@@ -6,20 +6,21 @@
 
 # Nome do projeto
 
-## Nome do grupo
+## Turing Labs
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/melyssa-rojas-221610204/">Melyssa Rojas</a>
+- <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-gon%C3%A7alves-carazzato-147120231/">João Carazzato</a>
+- <a href="https://www.linkedin.com/in/felipe-pereira-campos-250aa2231/">Felipe Campos</a> 
+- <a href="https://www.linkedin.com/in/henriquemarlon/">Henrique Marlon</a> 
+- <a href="https://www.linkedin.com/in/julia-togni/">Julia Togni</a>
+- <a href="https://www.linkedin.com/in/mike-mouadeb-24b781224/">Mike Mouadeb</a> 
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+<br><br>
+    Nosso projeto se trata de um modelo preditivo por classificação, que prediz se o cliente é atritado ou não com o Banco Pan, e assim melhorando o sistema de atendimento do próprio banco.
+<br><br>
 
 ## 📁 Estrutura de pastas
 
@@ -82,4 +83,4 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 Aqui estão as referências usadas no projeto:
 
-1. <https://creativecommons.org/share-your-work/>
+1. <https://www.bancopan.com.br//>
