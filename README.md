@@ -24,7 +24,7 @@
 
 ## 📁 Estrutura de pastas
 
-|--> documentos<br>
+|--> Documentos<br>
   &emsp;| T(1)_G(2)_V(2)_Predictive_Model_Document.pdf<br>
 |--> notebooks<br>
   &emsp;|--> T(1)_G(2)_V(1)_Predictive_Model_Development.ipynb<br>
