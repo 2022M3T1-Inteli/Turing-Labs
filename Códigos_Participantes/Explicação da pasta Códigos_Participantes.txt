@@ -1,0 +1,1 @@
+O grupo Turing Labs decidiu subir todos os colabs dos participantes e nos finais de sprints faremos o merge dos códigos necessários. 
