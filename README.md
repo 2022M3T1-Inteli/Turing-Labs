@@ -38,9 +38,13 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
-- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares.
+- <b>documentation</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada.
 
 - <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.
+
+- <b>license</b>: licença pelo Mit.
+
+- <b>api</b>: Aplicação web a partir do modelo escolhido.
 
 ## 💻 Execução dos projetos
 
