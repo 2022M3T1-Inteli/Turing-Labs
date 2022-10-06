@@ -24,7 +24,8 @@
 
 ## 📁 Estrutura de pastas
 
-|--> Documentos<br>
+|--> api<br>
+|--> documentation<br>
   &emsp;| T(1)_G(2)_V(2)_Predictive_Model_Document.pdf<br>
 |--> notebooks<br>
   &emsp;|--> T(1)_G(2)_Data_Processing_Development.ipynb<br>
