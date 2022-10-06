@@ -53,6 +53,30 @@ Todos os notebooks do projeto tem o resultado de execução das células visíve
 Para replicação (reexecução dos códigos), o botão `Open in Colab` disponível na página do arquivo neste repositório do Github.
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
+## 📝 Orientações de uso:
+<b>Excel:</b>
+
+1. Baixe o notebook predict model que está dentro da pasta notebooks
+2. Faça upload do notebook no Google Colab
+3. Rode todas as células do notebook
+4. Baixe o notebook deploy com excel que está dentro da pasta notebooks
+5. Faça upload do notebook no Google Colab
+6. Troque o 'nome do arquivo com caminho' pelo seu arquivo com caminho separado por '/'
+```sh
+df = pd.read_csv('nome do arquivo com caminho')
+```
+7. Rode todas as células desse notebook
+
+<b>Formulário:</b>
+
+1. Baixe o notebook predict model que está dentro da pasta notebooks
+2. Faça upload do notebook no Google Colab
+3. Rode todas as células do notebook
+4. Baixe o notebook deploy com formulário que está dentro da pasta notebooks
+5. Faça upload do notebook no Google Colab
+6. Preencha os inputs do formulário de informações do cliente
+7. Rode todas as células do notebook
+
 ## 🗃 Histórico de lançamentos
 
 * 0.2.1 - 25/01/2022
