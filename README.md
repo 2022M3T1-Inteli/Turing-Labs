@@ -24,10 +24,13 @@
 
 ## 📁 Estrutura de pastas
 
-|--> Documentos<br>
+|--> api<br>
+|--> documentation<br>
   &emsp;| T(1)_G(2)_V(2)_Predictive_Model_Document.pdf<br>
 |--> notebooks<br>
-  &emsp;|--> T(1)_G(2)_V(1)_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T(1)_G(2)_Data_Processing_Development.ipynb<br>
+  &emsp;|--> T(1)_G(2)_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T(1)_G(2)_Tests_Model_Development.ipynb<br>
 | readme.md<br>
 | license.txt
 
@@ -35,9 +38,13 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
-- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares.
+- <b>documentation</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada.
 
 - <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.
+
+- <b>license</b>: licença pelo Mit.
+
+- <b>api</b>: aplicação web a partir do modelo escolhido.
 
 ## 💻 Execução dos projetos
 
@@ -64,6 +71,8 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 ## 📋 Licença/License
 
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Felipe Campos, Henrique Marlon, João Carazzato, Julia Togni, Melyssa Rojas, Mike Mouadeb</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+
+Este projeto está licenciado nos termos da licença MIT
 
 ## 🎓 Referências
 
