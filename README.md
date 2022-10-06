@@ -44,7 +44,7 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>license</b>: licença pelo Mit.
 
-- <b>api</b>: Aplicação web a partir do modelo escolhido.
+- <b>api</b>: aplicação web a partir do modelo escolhido.
 
 ## 💻 Execução dos projetos
 
