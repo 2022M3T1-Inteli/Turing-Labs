@@ -4,7 +4,7 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Nome do projeto
+# Banco Pan
 
 ## Turing Labs
 
@@ -17,22 +17,20 @@
 - <a href="https://www.linkedin.com/in/mike-mouadeb-24b781224/">Mike Mouadeb</a> 
 
 ## 📝 Descrição
-
-<br><br>
-    Nosso projeto se trata de um modelo preditivo por classificação, que prediz se o cliente é atritado ou não com o Banco Pan, e assim melhorando o sistema de atendimento do próprio banco.
-<br><br>
+Nosso projeto se trata de um modelo preditivo por classificação, que prediz se o cliente é atritado ou não com o Banco Pan, e assim melhorando o sistema de atendimento do próprio banco.
+<br>
 
 ## 📁 Estrutura de pastas
 
 |--> api<br>
-|--> documentation<br>
-  &emsp;| T(1)_G(2)_V(2)_Predictive_Model_Document.pdf<br>
+|--> documentos<br>
+  &emsp;| T1_G2_V4_5_Predictive_Model_Document.pdf<br>
 |--> notebooks<br>
-  &emsp;|--> T(1)_G(2)_Data_Processing_Development.ipynb<br>
-  &emsp;|--> T(1)_G(2)_Predictive_Model_Development.ipynb<br>
-  &emsp;|--> T(1)_G(2)_Tests_Model_Development.ipynb<br>
-  &emsp;|--> T(1)_G(2)_Deploy_Forms_Development.ipynb<br>
-  &emsp;|--> T(1)_G(2)_Deploy_Excel_Development.ipynb<br>
+  &emsp;|--> T1_G2_Data_Processing_Development.ipynb<br>
+  &emsp;|--> T1_G2_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T1_G2_Tests_Model_Development.ipynb<br>
+  &emsp;|--> T1_G2_Deploy_Forms_Development.ipynb<br>
+  &emsp;|--> T1_G2_Deploy_Excel_Development.ipynb<br>
 | readme.md<br>
 | license.txt
 
@@ -79,29 +77,6 @@ df = pd.read_csv('nome do arquivo com caminho')
 6. Preencha os inputs do formulário de informações do cliente
 7. Rode todas as células do notebook
 
-## 🗃 Histórico de lançamentos
-
-* 0.2.1 - 25/01/2022
-    * Atualização de documentos (código do módulo permanece inalterado).
-* 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
-
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Felipe Campos, Henrique Marlon, João Carazzato, Julia Togni, Melyssa Rojas, Mike Mouadeb</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
-
-Este projeto está licenciado nos termos da licença MIT
-
-## 🎓 Referências
-
-Aqui estão as referências usadas no projeto:
-
-1. <https://www.bancopan.com.br//>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL">Turing Labs</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName">Inteli, Felipe Campos, Henrique Marlon, João Carazzato, Julia Togni, Melyssa Rojas, Mike Mouadeb</a> is licensed under <a target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
